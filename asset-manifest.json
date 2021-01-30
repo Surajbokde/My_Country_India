@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My_Country_India/static/css/main.c9edb57a.chunk.css",
+    "main.js": "/My_Country_India/static/js/main.33da79ec.chunk.js",
+    "main.js.map": "/My_Country_India/static/js/main.33da79ec.chunk.js.map",
+    "runtime-main.js": "/My_Country_India/static/js/runtime-main.fafa55ee.js",
+    "runtime-main.js.map": "/My_Country_India/static/js/runtime-main.fafa55ee.js.map",
+    "static/js/2.f99ef8ec.chunk.js": "/My_Country_India/static/js/2.f99ef8ec.chunk.js",
+    "static/js/2.f99ef8ec.chunk.js.map": "/My_Country_India/static/js/2.f99ef8ec.chunk.js.map",
+    "index.html": "/My_Country_India/index.html",
+    "precache-manifest.ca1e7d5a07b8c9f47e1b34d552156338.js": "/My_Country_India/precache-manifest.ca1e7d5a07b8c9f47e1b34d552156338.js",
+    "service-worker.js": "/My_Country_India/service-worker.js",
+    "static/css/main.c9edb57a.chunk.css.map": "/My_Country_India/static/css/main.c9edb57a.chunk.css.map",
+    "static/js/2.f99ef8ec.chunk.js.LICENSE.txt": "/My_Country_India/static/js/2.f99ef8ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fafa55ee.js",
+    "static/js/2.f99ef8ec.chunk.js",
+    "static/css/main.c9edb57a.chunk.css",
+    "static/js/main.33da79ec.chunk.js"
+  ]
+}
